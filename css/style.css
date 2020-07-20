@@ -46,6 +46,10 @@ img {
   margin: 0 10px 10px 10px;
 }
 
+.superinfo a:hover {
+  color: #2c70ff;
+}
+
 /* Menu */
 .menu-bg {
   background: #2c70ff;
